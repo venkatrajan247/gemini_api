@@ -1,0 +1,3 @@
+[2025-05-05 11:31:57,768] 32 root - ERROR - GOOGLE_API_KEY environment variable not set.
+[2025-05-05 11:31:57,768] 51 root - INFO - Loading Gemini Pro model...
+[2025-05-05 11:31:57,768] 58 root - ERROR - Error loading model: Error occured in python script name [C:\Users\nisha\QA_System\QAWithPDF\model_api.py] line number [43] error message [Google API key was not successfully configured.]
